@@ -5,4 +5,5 @@ Genius era um brinquedo muito popular na década de 1980 distribuído pela Brinq
 Com um formato semelhante a um OVNI, possuía botões coloridos que emitiam sons harmônicos e se iluminavam em seqüência.
 
 Como jogar:
+
 Cabia aos jogadores repetir o processo sem errar.
