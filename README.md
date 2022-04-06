@@ -1,4 +1,4 @@
-# Genius buscava estimular a memorização de cores e sons.
+# Genius busca estimular a memorização de cores e sons.
 História:
 
 Genius era um brinquedo muito popular na década de 1980 distribuído pela Brinquedos Estrela. O brinquedo buscava estimular a memorização de cores e sons. 
